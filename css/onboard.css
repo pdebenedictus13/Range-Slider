@@ -1,0 +1,190 @@
+/********************************************************************
+
+GENERAL
+
+********************************************************************/
+
+/*body {
+	font-family: 'Exo', 'san-serif';
+	margin: 0px;
+}
+
+ol {
+	margin: 50px 0 0 0;
+	padding: 0px;
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	font-size: 40px;
+	line-height: 18px;
+}
+
+.header {
+	margin-top: 75px;
+	text-align: center;
+}
+
+.header img {
+	width: 40%;
+	margin-left: 30%;
+	margin-right: 30%;
+}
+
+.section-header {
+	width: 80%;
+	margin: 100px 10% 0 10%;
+	font-weight: 300;
+	text-align: center;
+}*/
+
+/********************************************************************
+
+SLIDERS
+
+********************************************************************/
+
+/*.sliders {
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	text-align: center;
+}
+
+.sliders form {
+	margin-bottom: 75px;
+}
+
+.sliders input {
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+input[type="range"] {
+	-webkit-appearance: none;
+	background-color: #6065B3;
+	height: 2px;
+	opacity: .5;
+	-webkit-transition: .25s;
+	-moz-transition: .25s;
+	-o-transition: .25s;
+	transition: .25s;
+}
+
+input[type="range"]:focus {
+	opacity: 1;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+	-webkit-appearance: none;
+	position: relative;
+	top: 0px;
+	z-index: 1;
+	width: 20px;
+	height: 20px;
+	cursor: pointer;
+	-webkit-border-radius: 40px;
+	-moz-border-radius: 40px;
+	border-radius: 40px;
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#EE3C31), color-stop(50%,#EE3C31), color-stop(51%,#EE3C31), color-stop(100%,#EE3C31));
+}
+
+input[type="range"]:focus {
+    outline: 0;
+}*/
+
+/********************************************************************
+
+QUESTION STYLING
+
+********************************************************************/
+
+/*.question-style {
+	text-align: left;
+	margin-top: 75px;
+	margin-bottom: 50px;
+	margin-left: 2%;
+	font-size: 25px;
+	font-weight: 600;
+	line-height: 32px;
+}
+
+.statement-slider {
+	padding: 25px 20px 20px 20px;
+	margin: 5px 0;
+	background-color: #f7f7f7;	
+}
+
+.statement-slider label, .statement-slider div {
+	font-size: 16px;
+}*/
+
+/********************************************************************
+
+DATA-BOUND COMPUTED DIV's
+
+********************************************************************/
+
+/*.answers {
+	display: table;
+	width: 100%;
+	padding: 50px 0;
+}
+
+.answer {
+	padding: 5px 0 0 0;
+	display: block;
+	font-size: 12px;
+	width: 12%;
+	margin-left: .25%;
+	margin-right: .25%;
+	float: left;
+	background-color: #f7f7f7;
+	box-shadow: inset 0 0 1px #EE3C31;
+}
+
+.answer span {
+	font-size: 20px;
+	font-weight: 300;
+	text-align: center;
+}*/
+
+/********************************************************************
+
+MOBILE
+
+********************************************************************/
+
+/*@media (max-width: 991px) {
+	ol {
+		width: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+	}
+	.sliders {
+		width: 100%;
+		margin-left: 0;
+		margin-right: 0;
+	}
+	.sliders input {
+		width: 100%;
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+}
+@media (max-width: 768px) {
+	.answer {
+		display: block;
+		width: 24%;
+		margin-left: .5%;
+		margin-right: .5%;
+		margin-top: 5px;
+		float: left;
+	}
+}*/
+
+
+
+

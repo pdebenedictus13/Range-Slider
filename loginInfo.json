@@ -1,0 +1,57 @@
+[
+    {
+        "username": "admin",
+        "password": "admin",
+        "role": [
+            {
+                "class": "admin",
+                "id": "1"
+            }
+
+        ]
+    },
+    {
+        "username": "user1",
+        "password": "password1",
+        "role": [
+        	{
+        		"class": "user",
+        		"id": "1"
+        	}
+
+        ]
+    },
+    {
+        "username": "user2",
+        "password": "password2",
+        "role": [
+        	{
+        		"class": "user",
+        		"id": "2"
+        	}
+
+        ]
+    },
+    {
+        "username": "user3",
+        "password": "password3",
+        "role": [
+        	{
+        		"class": "user",
+        		"id": "3"
+        	}
+
+        ]
+    },
+    {
+        "username": "user4",
+        "password": "password4",
+        "role": [
+            {
+                "class": "user",
+                "id": "4"
+            }
+
+        ]
+    }
+]
